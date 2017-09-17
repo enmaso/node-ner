@@ -2,7 +2,7 @@
 Lightweight Nodejs [Stanford NER Project](https://nlp.stanford.edu/software/CRF-NER.shtml) module
 
 ## Requirements
-* [Stanford NER Download](https://sadfg.com)
+* [Stanford NER Download](https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip)
 * Java 1.8+
 
 ## Pre-installation
