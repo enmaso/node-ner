@@ -29,7 +29,7 @@ npm install --save @enmaso/node-ner
 
 ## Usage
 ```javascript
-const ner = require('node-ner')
+const ner = require('@enmaso/node-ner')
 
 let file = 'path/to/file.extension'
 ner.parse(file, (tags) => {
@@ -55,5 +55,4 @@ PID will be the first number of the server.sh process
 Always looking for testing and bug reporting.
 
 ## License
-See Stanford NER [License](http://asdf.com) GPL-3.0 <br>
-See node-ner [License](https://github.com/enmaso/node-ner/blob/master/LICENSE) GPL-3.0
+See [License](https://github.com/enmaso/node-ner/blob/master/LICENSE) GPL-3.0
