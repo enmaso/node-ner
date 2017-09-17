@@ -31,7 +31,12 @@ bower_components
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-bin/
+bin/classifiers
+bin/lib
+build.xml
+LICENSE.txt
+README.txt
+stanford-ner.jar
 
 # Dependency directories
 node_modules/
