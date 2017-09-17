@@ -1,5 +1,5 @@
 {
-  "name": "node-ner",
+  "name": "@enmaso/node-ner",
   "version": "1.0.3",
   "description": "Lightweight Nodejs Stanford NER package",
   "main": "ner.js",
