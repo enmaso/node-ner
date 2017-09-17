@@ -1,6 +1,6 @@
 {
   "name": "@enmaso/node-ner",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightweight Nodejs Stanford NER package",
   "main": "ner.js",
   "scripts": {
